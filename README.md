@@ -1,2 +1,3 @@
-# xsort
-Extended sort functions for golang sort package. 
+# usort
+
+Additional sort functions for golang returning unique values.
